@@ -1,0 +1,12 @@
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\bin\Debug\UI_For_Em_project.exe.config
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\bin\Debug\UI_For_Em_project.exe
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\bin\Debug\UI_For_Em_project.pdb
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\bin\Debug\UI_For_Em_project.xml
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\obj\Debug\UI_For_Em_project.vbprojAssemblyReference.cache
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\obj\Debug\UI_For_Em_project.Resources.resources
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\obj\Debug\UI_For_Em_project.vbproj.GenerateResource.cache
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\obj\Debug\UI_For_Em_project.vbproj.CoreCompileInputs.cache
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\obj\Debug\UI_For_Em_project.exe
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\obj\Debug\UI_For_Em_project.xml
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\obj\Debug\UI_For_Em_project.pdb
+D:\Emmebed\project\UI\UI_For_Em_project\UI_For_Em_project\obj\Debug\UI_For_Em_project.Form_main.resources
